@@ -16,7 +16,7 @@ input{
     box-sizing: border-box;
     border: 1px solid #cccccc;
     border-radius: 4px;
-
+    margin-bottom: 10px;
 }
 label{
     width: 35%;
@@ -33,14 +33,21 @@ select{
     border: 1px solid #cccccc;
     padding: 0.5rem 1.5rem;
 }
-input[type=submit]{
+input[type = submit]{
     display: block;
     margin: 20px auto;
     background-color: #45bd42;
     color: white;
-    font-size: 24px;
     width: 40%;
 }
-input[type=color]{
+input[type = color]{
     padding: 0;
 }
+
+
+
+
+
+
+
+
